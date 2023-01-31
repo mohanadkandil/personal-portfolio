@@ -1,6 +1,6 @@
 export const Hero = () => {
   return (
-    <section class="flex items-center justify-between">
+    <section class="flex items-center justify-between h-screen">
       <div class="flex flex-col space-y-5 text-center justify-between">
         <h1 class="text-6xl font-bold text-white">Mohanad Kandil</h1>
         <h2 class="text-2xl font-semibold text-white">Software Engineer</h2>

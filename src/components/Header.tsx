@@ -4,7 +4,7 @@ export const Header = () => {
       <a href="/">
         <h2 class="text-xl">Mohanad Kandil</h2>
       </a>
-      <nav class="flex space-x-32">
+      <nav class="flex space-x-20">
         <a href="#home">Home</a>
         <a href="#tools">Tools</a>
         <a href="#projects">Projects</a>
